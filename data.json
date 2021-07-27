@@ -1,0 +1,56 @@
+{
+  "questions": [
+    {
+      "number": 0,
+      "text": "Укажите Ваш пол:",
+      "responses": [
+        {
+          "text": "Мужчина",
+          "nextQuestionNumber": 1
+        },
+        {
+          "text": "Женщина",
+          "nextQuestionNumber": 2
+        }
+      ]
+    },
+    {
+      "number": 1,
+      "text": "У Вас есть девушка?:",
+      "responses": [
+        {
+          "text": "Да",
+          "nextQuestionNumber": 3
+        },
+        {
+          "text": "Нет",
+          "nextQuestionNumber": 4
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "text": "У Вас есть парень?:",
+      "responses": [
+        {
+          "text": "Да",
+          "nextQuestionNumber": 3
+        },
+        {
+          "text": "Нет",
+          "nextQuestionNumber": 4
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "text": "Всего хорошего!",
+      "responses": []
+    },
+    {
+      "number": 4,
+      "text": "Приходите на наш сайт знакомств - знакомств.нет",
+      "responses": []
+    }
+  ]
+}
